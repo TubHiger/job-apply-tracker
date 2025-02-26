@@ -24,16 +24,5 @@ This project automates job tracking using Google Cloud Functions and Google Shee
     --source=. \
     --no-gen2
 
-✅ This lets **anyone use the project without exposing sensitive data**.
-
 ---
-
-## **🎯 Summary**
-✅ **Added `.gitignore` to prevent uploading secrets.**  
-✅ **Modified `main.py` to use environment variables.**  
-✅ **Safely pushed the code to GitHub.**  
-✅ **Created a `README.md` to guide others on using it.**  
-
-🚀 **Now your project is public, but your secrets remain private!** 🎉  
-Let me know if you need any extra security measures! 😊
 
