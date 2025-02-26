@@ -1,0 +1,7 @@
+gspread
+google-auth
+google-auth-oauthlib
+google-cloud-storage
+requests
+beautifulsoup4
+functions-framework
