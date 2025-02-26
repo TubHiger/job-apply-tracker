@@ -11,9 +11,11 @@ This project automates job tracking using Google Cloud Functions and Google Shee
    ```bash 
    pip install -r requirements.txt
 3. Set up environment variables:
+   ```bash 
    export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your-service-account.json"
    export GOOGLE_SHEET_ID="your-google-sheet-id"
 4. Deploy the function:
+   ```bash 
    gcloud functions deploy update_google_sheet \
     --runtime python310 \
     --trigger-http \
